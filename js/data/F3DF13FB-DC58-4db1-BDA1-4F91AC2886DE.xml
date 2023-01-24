@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.3:2", "", "«EndPoint» api-poliza", "EARoot/EA3/EA53.htm", "5.png", "E5432", "0", "", "Class0","{25DDBC9E-93A3-4bf7-A50B-8BC9F38C0423}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "«CollaborationModel» CollaborationModel", "EARoot/EA3/EA54.htm", "4C9380A5-0_CollaborationModel.png", "E5425", "0", "", "Activity0","{B585DEC5-D372-4032-B937-7BDD2107C628}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "«BusinessProcess» Como Funciona", "EARoot/EA3/EA55.htm", "4C9380A5-0_BusinessProcess.png", "E5423", "0", "", "Activity0","{9CB4C757-CE90-456d-A369-9EF9E7DD7C81}");
+tocTab[tocTab.length] = new Array("0.3:1", "", "Como Funciona", "EARoot/EA3/EA50.htm", "189.png", "566", "E5423", "", "Analysis diagram0","{7B782719-389B-4142-82CF-FC7A535F1C78}");
+tocTab[tocTab.length] = new Array("0.3:10", "", "«Pool» Proceso de una póliza", "EARoot/EA3/EA64.htm", "116.png", "E5424", "E5425", "", "ActivityPartition0","{B1AE2F6B-FDD9-4f3d-A0EA-497B39D24C2D}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "«DataObject» : Propuesta", "EARoot/EA3/EA59.htm", "4C9380A5-0_DataObject.png", "E5436", "E5424", "", "Artifact0","{0CC3FB4C-D8BA-4580-B4CD-A5079ABB9FFD}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "«DataObject» : Poliza", "EARoot/EA3/EA60.htm", "4C9380A5-0_DataObject.png", "E5441", "E5424", "", "Artifact0","{C850B8AB-52ED-414c-9C1D-3D220C2F14D2}");
+tocTab[tocTab.length] = new Array("0.3:7", "", "«DataObject» : Propuesta", "EARoot/EA3/EA61.htm", "4C9380A5-0_DataObject.png", "E5434", "E5424", "", "Artifact0","{291AAE99-9959-4fc0-A1F2-FE61CE263B89}");
+tocTab[tocTab.length] = new Array("0.3:8", "", "«DataStore» BasseCorporativa", "EARoot/EA3/EA62.htm", "4C9380A5-0_DataStore.png", "E5437", "E5424", "", "Artifact0","{10FA8422-2788-41ba-855F-B6997B17B6AC}");
+tocTab[tocTab.length] = new Array("0.3:9", "", "«StartEvent» StartEvent1", "EARoot/EA3/EA63.htm", "4C9380A5-0_StartEvent.png", "E5438", "E5424", "", "Event0","{2DEA4B26-F4C6-4a56-B087-27AC80E39DBE}");
+tocTab[tocTab.length] = new Array("0.3.1", "1", "Tipos de Dato", "EARoot/EA3/EA1/EA65.htm", "4.png", "", "", "{DB7DEC5C-308A-4ee9-838F-3639BBCFAE35}", "Package");
