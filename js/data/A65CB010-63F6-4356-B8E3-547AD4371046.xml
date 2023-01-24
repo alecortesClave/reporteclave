@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Cotizacion", "EARoot/EA4/EA98.htm", "189.png", "533", "0", "", "Analysis diagram0","{23B5D685-0792-4eec-B607-67E5B749F7E9}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "«Pool» Proceso de Cotizacion", "EARoot/EA4/EA101.htm", "116.png", "E5001", "0", "", "ActivityPartition0","{AAE25CEC-239D-43bf-922A-5BFAAA395E28}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "«IntermediateEvent» Aceptar políticas de privacidad", "EARoot/EA4/EA102.htm", "4C9380A5-0_IntermediateEvent.png", "E5011", "E5001", "", "Event0","{25E00BA4-63BD-4bff-86AD-27D621405E63}");
+tocTab[tocTab.length] = new Array("0.4:4", "", "«Activity» Activity1", "EARoot/EA4/EA103.htm", "4C9380A5-0_Activity.png", "E5261", "E5001", "", "Activity0","{FFD424D5-90C1-4355-98E2-3F2CCEE941A4}");
+tocTab[tocTab.length] = new Array("0.4:5", "", "«Activity» Cargar Productos", "EARoot/EA4/EA104.htm", "4C9380A5-0_Activity.png", "E5007", "E5001", "", "Activity0","{C245B1E0-1996-41d9-9F33-CBF61A067980}");
+tocTab[tocTab.length] = new Array("0.4:6", "", "«Activity» Comenzar", "EARoot/EA4/EA105.htm", "4C9380A5-0_Activity.png", "E5009", "E5001", "", "Activity0","{92728656-73AB-433a-A22E-CAFCA7107B56}");
+tocTab[tocTab.length] = new Array("0.4:7", "", "«Activity» Ingresar con link", "EARoot/EA4/EA106.htm", "4C9380A5-0_Activity.png", "E5003", "E5001", "", "Activity0","{D4ACF276-3D11-4660-978A-36340E7E9E14}");
+tocTab[tocTab.length] = new Array("0.4:8", "", "«Activity» Ingresar datos", "EARoot/EA4/EA107.htm", "4C9380A5-0_Activity.png", "E5008", "E5001", "", "Activity0","{1B3CBAB1-73B5-4de0-A8E9-3EF9C0C0E9FD}");
+tocTab[tocTab.length] = new Array("0.4:9", "", "«Activity» Seleccionar coberturas opcionalmente", "EARoot/EA4/EA108.htm", "4C9380A5-0_Activity.png", "E5260", "E5001", "", "Activity0","{48EC94EA-3BDB-4306-9B18-1D980687ADB2}");
+tocTab[tocTab.length] = new Array("0.4:10", "", "«Activity» Seleccionar frecuencia de pago", "EARoot/EA4/EA109.htm", "4C9380A5-0_Activity.png", "E5259", "E5001", "", "Activity0","{C7D14FD3-6133-4172-A034-A4692AEFBE0F}");
+tocTab[tocTab.length] = new Array("0.4:11", "", "«Activity» Seleccionar Productos", "EARoot/EA4/EA110.htm", "4C9380A5-0_Activity.png", "E5005", "E5001", "", "Activity0","{94FC74FA-1FED-47ff-A89C-14258DC4403E}");
+tocTab[tocTab.length] = new Array("0.4:12", "", "«StartEvent» StartEvent1", "EARoot/EA4/EA111.htm", "4C9380A5-0_StartEvent.png", "E5002", "E5001", "", "Event0","{AFE7F32C-957C-4e26-AE6E-6CD201D76457}");
+tocTab[tocTab.length] = new Array("0.4:13", "", "«Gateway» Tipo de protección", "EARoot/EA4/EA112.htm", "56.png", "E5258", "E5001", "", "Decision0","{8CF03E4E-B48F-4b4b-A657-1A76A910A286}");
