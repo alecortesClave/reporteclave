@@ -1,5 +1,5 @@
 tocTab[tocTab.length] = new Array("0:1", "", "Menu Principal", "EARoot/EA1.htm", "176.png", "563", "0", "", "Package diagram0","{E356AB43-9979-4b5b-988F-0A08116D7B2E}");
 tocTab[tocTab.length] = new Array("0.1", "1", "Estructura", "EARoot/EA1/EA13.htm", "4.png", "", "", "{D1C67111-ABC5-4cd0-A09C-E2A076A4771A}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "Casos de Uso", "EARoot/EA2/EA33.htm", "4.png", "", "", "{15403FA2-6E00-4084-B16F-8A5D50E7A305}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "Como Funciona", "EARoot/EA3/EA52.htm", "4.png", "", "", "{F3DF13FB-DC58-4db1-BDA1-4F91AC2886DE}", "Package");
-tocTab[tocTab.length] = new Array("0.4", "1", "Interoperabilidad", "EARoot/EA4/EA71.htm", "4.png", "", "", "{852DD70A-4F8F-4199-B3AD-A26F6E23AF6D}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Casos de Uso", "EARoot/EA2/EA35.htm", "4.png", "", "", "{15403FA2-6E00-4084-B16F-8A5D50E7A305}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Como Funciona", "EARoot/EA3/EA54.htm", "4.png", "", "", "{F3DF13FB-DC58-4db1-BDA1-4F91AC2886DE}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Interoperabilidad", "EARoot/EA4/EA73.htm", "4.png", "", "", "{852DD70A-4F8F-4199-B3AD-A26F6E23AF6D}", "Package");
