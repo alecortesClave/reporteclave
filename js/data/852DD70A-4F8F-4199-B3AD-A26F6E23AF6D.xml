@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.6:1", "", "Ejemplo de interoperabilidad", "EARoot/EA6/EA125.html", "176.png", "569", "0", "", "Package diagram0","{06236163-CACA-4444-A9FD-0C1DCA4AB303}");
-tocTab[tocTab.length] = new Array("0.6.1", "1", "Con Interoperabilidad", "EARoot/EA6/EA1/EA136.html", "4.png", "", "", "{6127948B-8EB4-457b-8F31-DBBAD31DAF6A}", "Package");
-tocTab[tocTab.length] = new Array("0.6.2", "1", "Sin Interoperabilidad", "EARoot/EA6/EA2/EA149.html", "4.png", "", "", "{E1169835-174A-42fb-A0AE-1DE33665BB6F}", "Package");
+tocTab[tocTab.length] = new Array("0.6:1", "", "Ejemplo de interoperabilidad", "EARoot/EA6/EA131.html", "176.png", "569", "0", "", "Package diagram0","{06236163-CACA-4444-A9FD-0C1DCA4AB303}");
+tocTab[tocTab.length] = new Array("0.6.1", "1", "Con Interoperabilidad", "EARoot/EA6/EA1/EA142.html", "4.png", "", "", "{6127948B-8EB4-457b-8F31-DBBAD31DAF6A}", "Package");
+tocTab[tocTab.length] = new Array("0.6.2", "1", "Sin Interoperabilidad", "EARoot/EA6/EA2/EA155.html", "4.png", "", "", "{E1169835-174A-42fb-A0AE-1DE33665BB6F}", "Package");

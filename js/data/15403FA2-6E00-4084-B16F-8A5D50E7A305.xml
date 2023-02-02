@@ -1,3 +1,8 @@
-tocTab[tocTab.length] = new Array("0.4:1", "", "Casos de Uso", "EARoot/EA4/EA84.html", "176.png", "571", "0", "", "Package diagram0","{45AC5AEF-0CC9-4ec6-8E15-8C92AA981E5B}");
-tocTab[tocTab.length] = new Array("0.4.1", "1", "Asegurados", "EARoot/EA4/EA1/EA91.html", "4.png", "", "", "{C20F6674-4A95-4a70-9B36-B9C55A785B46}", "Package");
-tocTab[tocTab.length] = new Array("0.4.2", "", "Autenticacion", "EARoot/EA4/EA2/EA105.html", "4.png", "", "", "{197C2CAB-3179-466c-ACCF-4014815B63B9}", "Package");
+tocTab[tocTab.length] = new Array("0.4:1", "", "Casos de Uso", "EARoot/EA4/EA84.html", "180.png", "571", "0", "", "Use Case diagram0","{45AC5AEF-0CC9-4ec6-8E15-8C92AA981E5B}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "Consultar documento asociado a la póliza", "EARoot/EA4/EA90.html", "7.png", "E5638", "0", "", "UseCase0","{2DD9F1C9-1949-430d-BA90-F686EC1B656C}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "Consumidor del servicio", "EARoot/EA4/EA91.html", "6.png", "E5633", "0", "", "Actor0","{6590846F-E8AC-4ea0-84B0-804567B1C07E}");
+tocTab[tocTab.length] = new Array("0.4:4", "", "Emitir Póliza", "EARoot/EA4/EA92.html", "7.png", "E5636", "0", "", "UseCase0","{4380A6EF-533F-454c-BDBE-430655067EEF}");
+tocTab[tocTab.length] = new Array("0.4:5", "", "Emitir Propuesta", "EARoot/EA4/EA93.html", "7.png", "E5635", "0", "", "UseCase0","{4CFCD4C4-1E8B-4102-AC2A-9CD2107FB7FA}");
+tocTab[tocTab.length] = new Array("0.4:6", "", "«System» Kinetyc", "EARoot/EA4/EA94.html", "2FDC5606-3_System.png", "E5637", "0", "", "Artifact0","{5B26C4A7-976E-49e1-9CA3-CB3DF2D41C7D}");
+tocTab[tocTab.length] = new Array("0.4.1", "1", "Asegurados", "EARoot/EA4/EA1/EA97.html", "4.png", "", "", "{C20F6674-4A95-4a70-9B36-B9C55A785B46}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "", "Autenticacion", "EARoot/EA4/EA2/EA111.html", "4.png", "", "", "{197C2CAB-3179-466c-ACCF-4014815B63B9}", "Package");

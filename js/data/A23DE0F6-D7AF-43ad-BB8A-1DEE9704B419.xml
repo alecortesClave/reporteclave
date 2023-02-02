@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.4.1.1.2:1", "", "Obtener listado de asegurados", "EARoot/EA4/EA1/EA1/EA2/EA103.html", "7.png", "E5540", "0", "", "UseCase0","{C6854F09-349B-4f92-BBCE-30E533AC51F9}");
-tocTab[tocTab.length] = new Array("0.4.1.1.2:2", "", "Crear una propuesta", "EARoot/EA4/EA1/EA1/EA2/EA104.html", "7.png", "E5539", "0", "", "UseCase0","{19F58247-AE49-406a-B9BF-F64B487B8744}");
+tocTab[tocTab.length] = new Array("0.4.1.1.2:1", "", "Obtener listado de asegurados", "EARoot/EA4/EA1/EA1/EA2/EA109.html", "7.png", "E5540", "0", "", "UseCase0","{C6854F09-349B-4f92-BBCE-30E533AC51F9}");
+tocTab[tocTab.length] = new Array("0.4.1.1.2:2", "", "Crear una propuesta", "EARoot/EA4/EA1/EA1/EA2/EA110.html", "7.png", "E5539", "0", "", "UseCase0","{19F58247-AE49-406a-B9BF-F64B487B8744}");

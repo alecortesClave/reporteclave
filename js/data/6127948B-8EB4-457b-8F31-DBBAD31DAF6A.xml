@@ -1,7 +1,7 @@
-tocTab[tocTab.length] = new Array("0.6.1:1", "", "Con Interoperabilidad", "EARoot/EA6/EA1/EA134.html", "178.png", "568", "0", "", "Component diagram0","{8DE742F5-5AAA-4c86-AFA8-6E70D0F66D12}");
-tocTab[tocTab.length] = new Array("0.6.1:2", "", "«EndPoint» api-poliza", "EARoot/EA6/EA1/EA141.html", "5.png", "E5480", "0", "", "Class0","{6B169AE0-1FCE-422e-BE35-C182AA886781}");
-tocTab[tocTab.length] = new Array("0.6.1:3", "", "CRM", "EARoot/EA6/EA1/EA142.html", "10.png", "E5463", "0", "", "Component0","{ABD010FA-AFA7-4b13-A2F4-88807CFB4D80}");
-tocTab[tocTab.length] = new Array("0.6.1:4", "", "Gestor Póliza", "EARoot/EA6/EA1/EA143.html", "10.png", "E5464", "0", "", "Component0","{68C57EDE-D723-428c-BE12-422EE1C6FA46}");
-tocTab[tocTab.length] = new Array("0.6.1:5", "", "PowerBI", "EARoot/EA6/EA1/EA144.html", "10.png", "E5465", "0", "", "Component0","{1EEB606A-0FA3-44b2-B63A-D494308A0186}");
-tocTab[tocTab.length] = new Array("0.6.1:6", "", "SAP", "EARoot/EA6/EA1/EA145.html", "10.png", "E5466", "0", "", "Component0","{0395DC22-08D0-410e-B1F2-5702CC9764EB}");
-tocTab[tocTab.length] = new Array("0.6.1.1", "", "Objetos", "EARoot/EA6/EA1/EA1/EA146.html", "4.png", "", "", "{04A75CEE-78A1-4d4b-93BB-0F7570602197}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1:1", "", "Con Interoperabilidad", "EARoot/EA6/EA1/EA140.html", "178.png", "568", "0", "", "Component diagram0","{8DE742F5-5AAA-4c86-AFA8-6E70D0F66D12}");
+tocTab[tocTab.length] = new Array("0.6.1:2", "", "«EndPoint» api-poliza", "EARoot/EA6/EA1/EA147.html", "5.png", "E5480", "0", "", "Class0","{6B169AE0-1FCE-422e-BE35-C182AA886781}");
+tocTab[tocTab.length] = new Array("0.6.1:3", "", "CRM", "EARoot/EA6/EA1/EA148.html", "10.png", "E5463", "0", "", "Component0","{ABD010FA-AFA7-4b13-A2F4-88807CFB4D80}");
+tocTab[tocTab.length] = new Array("0.6.1:4", "", "Gestor Póliza", "EARoot/EA6/EA1/EA149.html", "10.png", "E5464", "0", "", "Component0","{68C57EDE-D723-428c-BE12-422EE1C6FA46}");
+tocTab[tocTab.length] = new Array("0.6.1:5", "", "PowerBI", "EARoot/EA6/EA1/EA150.html", "10.png", "E5465", "0", "", "Component0","{1EEB606A-0FA3-44b2-B63A-D494308A0186}");
+tocTab[tocTab.length] = new Array("0.6.1:6", "", "SAP", "EARoot/EA6/EA1/EA151.html", "10.png", "E5466", "0", "", "Component0","{0395DC22-08D0-410e-B1F2-5702CC9764EB}");
+tocTab[tocTab.length] = new Array("0.6.1.1", "", "Objetos", "EARoot/EA6/EA1/EA1/EA152.html", "4.png", "", "", "{04A75CEE-78A1-4d4b-93BB-0F7570602197}", "Package");
