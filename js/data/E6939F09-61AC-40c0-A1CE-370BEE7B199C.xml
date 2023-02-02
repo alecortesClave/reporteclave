@@ -1,7 +1,7 @@
 tocTab[tocTab.length] = new Array("0:1", "", "Menu Principal", "EARoot/EA1.html", "176.png", "563", "0", "", "Package diagram0","{E356AB43-9979-4b5b-988F-0A08116D7B2E}");
-tocTab[tocTab.length] = new Array("0.1", "1", "Acord Framework", "EARoot/EA1/EA19.html", "4.png", "", "", "{3C19A85E-46AE-4561-A1CF-E88B80B8A80E}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "Flexibilidad", "EARoot/EA2/EA22.html", "4.png", "", "", "{6CA2BDD9-B7F5-4552-916C-568346E95063}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "Estructura", "EARoot/EA3/EA23.html", "4.png", "", "", "{D1C67111-ABC5-4cd0-A09C-E2A076A4771A}", "Package");
-tocTab[tocTab.length] = new Array("0.4", "1", "Casos de Uso", "EARoot/EA4/EA52.html", "4.png", "", "", "{15403FA2-6E00-4084-B16F-8A5D50E7A305}", "Package");
-tocTab[tocTab.length] = new Array("0.5", "1", "Como Funciona", "EARoot/EA5/EA74.html", "4.png", "", "", "{F3DF13FB-DC58-4db1-BDA1-4F91AC2886DE}", "Package");
-tocTab[tocTab.length] = new Array("0.6", "1", "Interoperabilidad", "EARoot/EA6/EA93.html", "4.png", "", "", "{852DD70A-4F8F-4199-B3AD-A26F6E23AF6D}", "Package");
+tocTab[tocTab.length] = new Array("0.1", "1", "Valor de Api Kinetyc", "EARoot/EA1/EA27.html", "4.png", "", "", "{6CA2BDD9-B7F5-4552-916C-568346E95063}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Demo", "EARoot/EA2/EA52.html", "4.png", "", "", "{E8A40330-DBB3-4592-AB84-FCA94383D0AA}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Estructura", "EARoot/EA3/EA57.html", "4.png", "", "", "{D1C67111-ABC5-4cd0-A09C-E2A076A4771A}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Casos de Uso", "EARoot/EA4/EA86.html", "4.png", "", "", "{15403FA2-6E00-4084-B16F-8A5D50E7A305}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Como Funciona", "EARoot/EA5/EA108.html", "4.png", "", "", "{F3DF13FB-DC58-4db1-BDA1-4F91AC2886DE}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Interoperabilidad", "EARoot/EA6/EA127.html", "4.png", "", "", "{852DD70A-4F8F-4199-B3AD-A26F6E23AF6D}", "Package");
